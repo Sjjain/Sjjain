@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Shashank Jain
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on java
+- 🌱 I’m currently learning React and Node js 
+- 💞️ I’m looking to collaborate as a FrontEnd Developer
 - 📫 How to reach me jainshashank2001@gmail.com
 
 <!---
